@@ -1,10 +1,9 @@
-
 import { motion } from "framer-motion";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
-import { TrendingUp, TrendingDown, DollarSign, Users, Trophy, Calendar } from "lucide-react";
+import { TrendingUp, TrendingDown, DollarSign, Users, Trophy, Calendar, BarChart3 } from "lucide-react";
 
 const Dashboard = () => {
   const mockRoster = [
